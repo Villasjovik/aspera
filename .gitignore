@@ -1,3 +1,9 @@
 assets/
 _preview-server.mjs
 .DS_Store
+
+# Internt bygg-material — publiceras inte (metadata-hygien 2026-07-30)
+*-logo3d.json
+*-og-gen.mjs
+source-material/
+gpt-input/
