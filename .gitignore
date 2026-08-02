@@ -7,3 +7,4 @@ _preview-server.mjs
 *-og-gen.mjs
 source-material/
 gpt-input/
+.assets-lock.json
